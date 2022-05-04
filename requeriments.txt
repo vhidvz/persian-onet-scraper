@@ -1,0 +1,5 @@
+lxml>=4.4.1
+tqdm>=4.33.0
+requests>=2.22.0
+selenium>=3.141.0
+cssselect>=1.1.0
